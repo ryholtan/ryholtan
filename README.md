@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ryan, and I am just going to go along with this.
+- 👀 I’m interested in programming and ethical hacking. I love learning about Networks.
+- 🌱 I’m currently learning a little of both of the above. One in school and one on my own.
+- 💞️ I’m looking to collaborate on anything useful!
