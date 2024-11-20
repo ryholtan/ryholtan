@@ -25,6 +25,6 @@ I've had fun working with various technologies and platforms. A few of my favori
 
 - **Virtualization**: I've worked extensively with VMware, Proxmox, and others to create virtualized environments and connect multiple systems together.
   
-- **Coding Projects**: I have a few Python projects in my [**favProjects repo**](https://github.com/ryholtan/favProjects) (specifically The [**Memorizer**](https://github.com/ryholtan/favProjects/Memorizer) and my [**WDD130 repo**](https://github.com/ryholtan/wdd130), which are from my early days of coding.
+- **Coding Projects**: I have a few Python projects in my [**favProjects repo**](https://github.com/ryholtan/favProjects) (specifically The [**Memorizer**](https://github.com/ryholtan/favProjects/tree/main/The_Memorizer)) and my [**WDD130 repo**](https://github.com/ryholtan/wdd130), which are from my early days of coding.
 
 - **Current Focus**: Nowadays, I tend to spend most of my time in configuration files, ensuring variables have the correct delimiters, and solving problems in the back-end. 🛠️
