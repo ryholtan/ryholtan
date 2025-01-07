@@ -16,6 +16,7 @@ I've dabbled with a variety of programming languages, tools, and technologies, l
 - CompTIA Security+
 - CompTIA CySA+
 - CompTIA Pentest+
+- AWS Solutions Architect Associate 
 
 ---
 
